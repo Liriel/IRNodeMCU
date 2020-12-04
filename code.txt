@@ -1,0 +1,3 @@
+Gesamt: 26ms
+1 Segment: 1.64ms
+Binär 1 = 440us ON 1180us OFF
