@@ -1,7 +1,8 @@
 # NodeMCU ESP8266 IR Decoder
-Found an only IR Remote that sends on 38KHz. 
+Found an only IR Remote that sends on 38KHz. <br /><br />
 ![IR Remote](remote.png)
-Got myself the [CHQ1838 IR Reciever Module](http://www.datasheetcafe.com/chq1838-datasheet-infrared-receiver/) and started to investigate
+<br /><br />
+Got myself the [CHQ1838 IR Reciever Module](http://www.datasheetcafe.com/chq1838-datasheet-infrared-receiver/) and started to investigate<br/><br/>
 ![Oscilloscope screenshot showing the on signal](on.png)
 
 Apparently the remote sends 16 bits as 1640us pulses. The width of the ON or OFF pusle indicates the value.
